@@ -1,8 +1,5 @@
 {
 	"description": "项目配置文件。",
-	"packOptions": {
-		"ignore": []
-	},
 	"setting": {
 		"urlCheck": true,
 		"es6": true,
@@ -10,11 +7,10 @@
 		"minified": true,
 		"newFeature": true
 	},
-	"compileType": "miniprogram",
-	"libVersion": "2.0.4",
-	"appid": "wxbb741f3d835fd7a7",
-	"projectname": "%E7%BA%A2%E5%BF%83%E5%A4%A7%E6%88%98",
-	"isGameTourist": false,
+	"compileType": "game",
+	"libVersion": "game",
+	"appid": "wxedf747f722f31c70",
+	"projectname": "Hearts",
 	"condition": {
 		"search": {
 			"current": -1,
