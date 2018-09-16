@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BlueBack",
+    "texture": "261e7520-8d99-4827-b92c-b7586867b201",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      374,
+      522
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      374,
+      522
+    ]
+  }
+}

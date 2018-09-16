@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "H_10",
+    "texture": "60b1c3d3-d189-4815-afe4-b9ece0143eb9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      374,
+      521
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      374,
+      521
+    ]
+  }
+}

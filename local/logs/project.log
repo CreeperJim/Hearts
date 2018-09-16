@@ -1,0 +1,139 @@
+2018-09-16T14:37:34.895Z - normal: Load ~/.CocosCreator/settings.json
+2018-09-16T14:37:34.905Z - normal: checking language setting...
+2018-09-16T14:37:34.905Z - normal: Language: zh
+2018-09-16T14:37:36.500Z - success: protocol editor-framework registered
+2018-09-16T14:37:36.500Z - success: protocol app registered
+2018-09-16T14:37:36.500Z - success: protocol theme registered
+2018-09-16T14:37:36.500Z - success: protocol packages registered
+2018-09-16T14:37:36.500Z - success: protocol unpack registerred
+2018-09-16T14:37:36.500Z - success: protocol disable-commonjs registerred
+2018-09-16T14:37:36.956Z - normal: connected!
+2018-09-16T14:37:36.956Z - normal: Check project C:\Users\alex\Desktop\Temp\Hearts
+2018-09-16T14:37:36.964Z - normal: Initializing project C:\Users\alex\Desktop\Temp\Hearts
+2018-09-16T14:37:36.972Z - normal: Initializing Cocos2d
+2018-09-16T14:37:39.047Z - normal: Initializing Asset Database
+2018-09-16T14:37:39.087Z - success: protocol uuid registerred
+2018-09-16T14:37:39.087Z - success: protocol db registerred
+2018-09-16T14:37:39.087Z - success: protocol thumbnail registerred
+2018-09-16T14:37:39.087Z - normal: Loading editor/builtin packages
+2018-09-16T14:37:39.247Z - success: assets loaded
+2018-09-16T14:37:39.247Z - success: builder loaded
+2018-09-16T14:37:39.247Z - success: cocos-analytics loaded
+2018-09-16T14:37:39.247Z - success: console loaded
+2018-09-16T14:37:39.295Z - success: fb-instant-games loaded
+2018-09-16T14:37:39.295Z - success: hierarchy loaded
+2018-09-16T14:37:39.303Z - success: inspector loaded
+2018-09-16T14:37:39.303Z - success: keystore loaded
+2018-09-16T14:37:39.311Z - success: node-library loaded
+2018-09-16T14:37:39.311Z - success: package-asset loaded
+2018-09-16T14:37:39.311Z - success: preferences loaded
+2018-09-16T14:37:39.311Z - success: project-exporter loaded
+2018-09-16T14:37:39.327Z - success: project-importer loaded
+2018-09-16T14:37:39.335Z - success: project-settings loaded
+2018-09-16T14:37:39.335Z - success: ui-kit loaded
+2018-09-16T14:37:39.343Z - success: scene loaded
+2018-09-16T14:37:39.343Z - success: sprite-editor loaded
+2018-09-16T14:37:39.343Z - success: store loaded
+2018-09-16T14:37:39.343Z - success: timeline loaded
+2018-09-16T14:37:39.343Z - normal: Loading builtin packages
+2018-09-16T14:37:39.359Z - success: asset-db-debugger loaded
+2018-09-16T14:37:39.375Z - success: code-editor loaded
+2018-09-16T14:37:39.375Z - success: color-picker loaded
+2018-09-16T14:37:39.375Z - success: jsb-adapter loaded
+2018-09-16T14:37:39.383Z - success: package-manager loaded
+2018-09-16T14:37:39.487Z - success: qqplay-adapter loaded
+2018-09-16T14:37:39.519Z - success: sdkbox loaded
+2018-09-16T14:37:39.536Z - success: tester loaded
+2018-09-16T14:37:39.544Z - success: ui-grid loaded
+2018-09-16T14:37:39.544Z - success: ui-kit-preview-extra loaded
+2018-09-16T14:37:39.560Z - success: ui-kit-preview loaded
+2018-09-16T14:37:39.560Z - success: ui-tree loaded
+2018-09-16T14:37:39.568Z - success: weapp-adapter loaded
+2018-09-16T14:37:40.999Z - normal: Loading packages
+2018-09-16T14:37:40.999Z - normal: Watching packages
+2018-09-16T14:37:41.412Z - normal: Run Application
+2018-09-16T14:37:45.952Z - success: preview server running at http://localhost:7456
+2018-09-16T14:37:54.350Z - error: Failed to remove menu in path: 开发者/UI Preview/ui-tree (could not be found)
+    at a.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2693)
+    at Object.e.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4106)
+    at r.series.n (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:4460)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-09-16T14:37:54.350Z - success: ui-tree unloaded
+2018-09-16T14:37:54.351Z - error: Failed to remove menu in path: 开发者/UI Preview/ui-tree (could not be found)
+    at a.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2693)
+    at Object.e.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4106)
+    at r.series.n (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:4460)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-09-16T14:37:54.352Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-09-16T14:37:54.352Z - success: ui-tree unloaded
+2018-09-16T14:37:54.369Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
+2018-09-16T14:37:54.371Z - success: ui-tree loaded
+2018-09-16T14:37:54.372Z - success: ui-tree loaded
+2018-09-16T14:39:08.330Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-09-16T14:39:08.338Z - normal: Simulator: WORKAREA WIDTH 1272.00, HEIGHT 669.00
+2018-09-16T14:39:08.338Z - normal: Simulator: FRAME SCALE = 0.25
+2018-09-16T14:39:08.404Z - normal: Simulator: Ready for GLSL
+2018-09-16T14:39:08.404Z - normal: Simulator: Ready for OpenGL 2.0
+2018-09-16T14:39:08.404Z - normal: Simulator: Project Config:
+2018-09-16T14:39:08.404Z - normal: Simulator:     project dir: D:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-09-16T14:39:08.404Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-09-16T14:39:08.405Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-09-16T14:39:08.405Z - normal: Simulator:     frame size: 1080 x 1920
+2018-09-16T14:39:08.405Z - normal: Simulator:     frame scale: 0.25
+2018-09-16T14:39:08.405Z - normal: Simulator:     show console: NO
+2018-09-16T14:39:08.405Z - normal: Simulator:     write debug log: NO ()
+2018-09-16T14:39:08.405Z - normal: Simulator:     listen: 
+2018-09-16T14:39:08.405Z - normal: Simulator:     debugger: none
+2018-09-16T14:39:08.406Z - normal: Simulator:     add searching path:
+2018-09-16T14:39:08.406Z - normal: Simulator: 
+2018-09-16T14:39:08.408Z - normal: Simulator: 
+2018-09-16T14:39:08.410Z - normal: Simulator: 
+2018-09-16T14:39:08.410Z - normal: Simulator: resetDesignResolution request
+2018-09-16T14:39:08.411Z - normal: Simulator: ------------------------------------------------
+2018-09-16T14:39:08.411Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-09-16T14:39:08.411Z - normal: Simulator: ------------------------------------------------
+2018-09-16T14:39:08.411Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2018-09-16T14:39:08.758Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-09-16T14:39:08.760Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-09-16T14:39:08.761Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-09-16T14:39:08.807Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2018-09-16T14:39:08.807Z - normal: Simulator: resetDesignResolution request
+2018-09-16T14:39:08.807Z - normal: Simulator: ------------------------------------------------
+2018-09-16T14:39:08.807Z - normal: Simulator: LOAD Js FILE: main.js
+2018-09-16T14:39:08.807Z - normal: Simulator: ------------------------------------------------
+2018-09-16T14:39:09.188Z - normal: Simulator: iShow!
+2018-09-16T14:39:09.203Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
+2018-09-16T14:39:09.204Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
+2018-09-16T14:39:09.218Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
+2018-09-16T14:39:12.507Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2018-09-16T14:39:12.508Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 20, all objects: 86
+2018-09-16T14:39:12.563Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 20, all objects: 86
+2018-09-16T14:39:12.564Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 20, all objects: 86
+2018-09-16T14:39:12.610Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 20, all objects: 86
+2018-09-16T14:39:12.611Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
+2018-09-16T14:39:12.612Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
+2018-09-16T14:39:12.613Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
+2018-09-16T14:39:12.613Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
+2018-09-16T14:39:12.613Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
+2018-09-16T14:39:12.613Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
+2018-09-16T14:39:12.613Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
+2018-09-16T14:39:12.613Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
+2018-09-16T14:39:12.613Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
+2018-09-16T14:39:12.614Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
+2018-09-16T14:39:12.614Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
+2018-09-16T14:39:12.614Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
+2018-09-16T14:39:12.614Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
+2018-09-16T14:39:12.615Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
+2018-09-16T14:39:12.615Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
+2018-09-16T14:39:12.615Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-09-16T14:39:12.656Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2018-09-16T14:39:12.662Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
+2018-09-16T14:43:55.402Z - info: shutdown preview server
